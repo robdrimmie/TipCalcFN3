@@ -104,3 +104,5 @@ System.Collections.Generic.KeyNotFoundException: Could not find view for TipCalc
   at Java.Lang.IRunnableInvoker.n_Run (System.IntPtr jnienv, System.IntPtr native__this) [0x00008] in <a54fd02a94254b8f91efc9ea3cec736c>:0
   at at (wrapper dynamic-method) Android.Runtime.DynamicMethodNameCounter.24(intptr,intptr)
 ```
+
+There's a repo with the Solution located at: https://github.com/robdrimmie/TipCalcFN3
