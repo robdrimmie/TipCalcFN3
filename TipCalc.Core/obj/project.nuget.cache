@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2zNa9EWFg09UVzB8J1zh+eAYuOzJoGs5HPrbJxffzh+xlUnITOQ952RH+3Q23qHPI0/EqRoa2tTbcl0so+YVg==",
+  "success": true,
+  "projectFilePath": "/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/TipCalc.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/rdrimmie/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/rdrimmie/.nuget/packages/mvvmcross/7.0.0/mvvmcross.7.0.0.nupkg.sha512",
+    "/Users/rdrimmie/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{61343446-D796-4161-8185-0A19C114245D}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalc.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.visual_studio_-_10_0_-_api_29_-_pixel_3a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.Droid/Views/FirstView.cs">
+    <Files>
+      <File FileName="TipCalc.Core/App.cs" Line="18" Column="1" />
+      <File FileName="TipCalc.Core/ViewModels/TipViewModel.cs" Line="11" Column="1" />
+      <File FileName="TipCalc.Droid/Resources/layout/TipView.axml" Line="14" Column="1" />
+      <File FileName="TipCalc.Core/ViewModels/FirstViewModel.cs" Line="1" Column="1" />
+      <File FileName="TipCalc.Droid/Resources/layout/Layout.xml" Line="13" Column="1" />
+      <File FileName="TipCalc.Droid/Views/TipView.cs" Line="17" Column="2" />
+      <File FileName="TipCalc.Droid/Views/FirstView.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipCalc" expanded="True">
+            <Node name="TipCalc.Core" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="TipCalc.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="FirstView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TipCalc.Forms.Droid/TipCalc.Forms.Droid.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
