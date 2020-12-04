@@ -18,7 +18,7 @@ namespace TipCalc.Core.ViewModels
             _calculationService = calculationService;
             _navigationService = mvxNavigationService;
 
-            //NavigateCommand = new MvxAsyncCommand(() => _navigationService.Navigate<SecondViewModel>());
+            NavigateCommand = new MvxAsyncCommand(() => _navigationService.Navigate<FirstViewModel>());
         }
 
         public IMvxAsyncCommand NavigateCommand { get; private set; }

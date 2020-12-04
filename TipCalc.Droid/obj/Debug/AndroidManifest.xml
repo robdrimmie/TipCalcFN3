@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="TipCalc.Droid.TipCalc.Droid" android:versionCode="1" android:versionName="1.0">
-  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="29" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="TipCalc.Droid" android:name="crc64f78f66f5aa7b45ec.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true" android:extractNativeLibs="true">

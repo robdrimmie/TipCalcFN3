@@ -377,6 +377,8 @@
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/layout/tipview.xml
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/layout/splashscreen.xml
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/values/colors.xml
+/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/layout/firstview.xml
+/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/layout/secondview.xml
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/values/strings.xml
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/drawable/icon.png
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/values/styles.xml
@@ -548,6 +550,7 @@
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6466d8e86b1ec8bfa8/MvxAndroidApplication_2.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6466d8e86b1ec8bfa8/MvxApplicationCallbacksCurrentTopActivity.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6466d8e86b1ec8bfa8/MvxSplashScreenActivity_2.java
+/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6484b5a6852530ce21/FirstView.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6484b5a6852530ce21/TipView.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6485901dbe4555b529/MvxAdapter.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6485901dbe4555b529/MvxAdapterWithChangedEvent.java
@@ -689,5 +692,3 @@
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
-/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/res/layout/firstview.xml
-/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6484b5a6852530ce21/FirstView.java

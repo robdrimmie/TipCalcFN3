@@ -11,7 +11,7 @@ namespace TipCalc.UI.Droid.Views
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-            SetContentView(Resource.Layout.FirstView);
+            SetContentView(Resource.Layout.TipView);
         }
     }
 }

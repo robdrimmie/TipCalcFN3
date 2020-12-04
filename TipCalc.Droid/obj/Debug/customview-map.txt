@@ -1,4 +1,6 @@
 attr;/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/lp/0/jl/res/values/mvxbindingattributes.xml
+Button;obj/Debug/res/layout/firstview.xml
+Button;obj/Debug/res/layout/secondview.xml
 Button;obj/Debug/res/layout/tipview.xml
 color;obj/Debug/res/values/colors.xml
 declare-styleable;/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/lp/0/jl/res/values/mvxbindingattributes.xml
@@ -7,7 +9,7 @@ item;/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/lp/0/jl/res/values/
 item;/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/lp/0/jl/res/values/mvxbindingattributes.xml
 item;obj/Debug/res/values/styles.xml
 LinearLayout;obj/Debug/res/layout/firstview.xml
-LinearLayout;obj/Debug/res/layout/layout.xml
+LinearLayout;obj/Debug/res/layout/secondview.xml
 LinearLayout;obj/Debug/res/layout/splashscreen.xml
 LinearLayout;obj/Debug/res/layout/tipview.xml
 resources;/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/lp/0/jl/res/values/ids.xml
@@ -19,6 +21,6 @@ SeekBar;obj/Debug/res/layout/tipview.xml
 string;obj/Debug/res/values/strings.xml
 style;obj/Debug/res/values/styles.xml
 TextView;obj/Debug/res/layout/firstview.xml
-TextView;obj/Debug/res/layout/layout.xml
+TextView;obj/Debug/res/layout/secondview.xml
 TextView;obj/Debug/res/layout/tipview.xml
 View;obj/Debug/res/layout/tipview.xml
