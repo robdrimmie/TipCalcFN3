@@ -18,7 +18,20 @@ namespace TipCalc.Core.ViewModels
             _calculationService = calculationService;
             _navigationService = mvxNavigationService;
 
-            NavigateCommand = new MvxAsyncCommand(() => _navigationService.Navigate<FirstViewModel>());
+            NavigateCommand = new MvxAsyncCommand(NavToFirst);
+        }
+
+        public Task NavToFirst()
+        {
+            FirstViewModelParameters firstViewModelParameters = new FirstViewModelParameters()
+            {
+                Subtotal = 1,
+                Generosity = 2
+            };
+
+            return Task.FromResult<bool>(
+                _navigationService.Navigate<FirstViewModel, FirstViewModelParameters>(firstViewModelParameters).GetAwaiter().GetResult()
+            );
         }
 
         public IMvxAsyncCommand NavigateCommand { get; private set; }

@@ -57,6 +57,7 @@
     <Compile Include="Views\TipView.cs" />
     <Compile Include="MainApplication.cs" />
     <Compile Include="Views\FirstView.cs" />
+    <Compile Include="Views\SecondView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />

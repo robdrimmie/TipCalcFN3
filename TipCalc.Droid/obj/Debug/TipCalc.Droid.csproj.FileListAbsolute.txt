@@ -551,6 +551,7 @@
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6466d8e86b1ec8bfa8/MvxApplicationCallbacksCurrentTopActivity.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6466d8e86b1ec8bfa8/MvxSplashScreenActivity_2.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6484b5a6852530ce21/FirstView.java
+/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6484b5a6852530ce21/SecondView.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6484b5a6852530ce21/TipView.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6485901dbe4555b529/MvxAdapter.java
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Droid/obj/Debug/android/src/crc6485901dbe4555b529/MvxAdapterWithChangedEvent.java

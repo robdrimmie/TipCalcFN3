@@ -10,9 +10,9 @@
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/bin/Debug/netstandard2.0/TipCalc.Core.deps.json
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/bin/Debug/netstandard2.0/TipCalc.Core.dll
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/bin/Debug/netstandard2.0/TipCalc.Core.pdb
-/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csprojAssemblyReference.cache
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.AssemblyInfoInputs.cache
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.AssemblyInfo.cs
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csproj.CoreCompileInputs.cache
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.dll
 /Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.pdb
+/Users/rdrimmie/Code/TipCalcFN3/TipCalc.Core/obj/Debug/netstandard2.0/TipCalc.Core.csprojAssemblyReference.cache

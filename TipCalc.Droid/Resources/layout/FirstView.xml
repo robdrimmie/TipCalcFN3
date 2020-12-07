@@ -8,9 +8,14 @@
 	<TextView
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
-		android:text="This is the First View"
+		android:text="This is firstview.axml"
 		android:textSize="40dp"/>
 
+		<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		local:MvxBind="Text Generosity"
+		android:textSize="40dp"/>
 	
 	<Button
     	android:layout_width="match_parent"

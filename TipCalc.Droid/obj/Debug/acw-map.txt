@@ -4,12 +4,15 @@ tipcalc.ui.droid.SplashScreen;crc64f78f66f5aa7b45ec.SplashScreen
 TipCalc.UI.Droid.MainApplication, TipCalc.UI.Droid;crc64f78f66f5aa7b45ec.MainApplication
 TipCalc.UI.Droid.MainApplication;crc64f78f66f5aa7b45ec.MainApplication
 tipcalc.ui.droid.MainApplication;crc64f78f66f5aa7b45ec.MainApplication
-TipCalc.UI.Droid.Views.FirstView, TipCalc.UI.Droid;crc6484b5a6852530ce21.FirstView
-TipCalc.UI.Droid.Views.FirstView;crc6484b5a6852530ce21.FirstView
-tipcalc.ui.droid.views.FirstView;crc6484b5a6852530ce21.FirstView
 TipCalc.UI.Droid.Views.TipView, TipCalc.UI.Droid;crc6484b5a6852530ce21.TipView
 TipCalc.UI.Droid.Views.TipView;crc6484b5a6852530ce21.TipView
 tipcalc.ui.droid.views.TipView;crc6484b5a6852530ce21.TipView
+TipCalc.UI.Droid.Views.FirstView, TipCalc.UI.Droid;crc6484b5a6852530ce21.FirstView
+TipCalc.UI.Droid.Views.FirstView;crc6484b5a6852530ce21.FirstView
+tipcalc.ui.droid.views.FirstView;crc6484b5a6852530ce21.FirstView
+TipCalc.UI.Droid.Views.SecondView, TipCalc.UI.Droid;crc6484b5a6852530ce21.SecondView
+TipCalc.UI.Droid.Views.SecondView;crc6484b5a6852530ce21.SecondView
+tipcalc.ui.droid.views.SecondView;crc6484b5a6852530ce21.SecondView
 MvvmCross.Platforms.Android.MvxJavaContainer, MvvmCross;crc64f17390f589b10bdb.MvxJavaContainer
 MvvmCross.Platforms.Android.MvxJavaContainer;crc64f17390f589b10bdb.MvxJavaContainer
 mvvmcross.platforms.android.MvxJavaContainer;crc64f17390f589b10bdb.MvxJavaContainer

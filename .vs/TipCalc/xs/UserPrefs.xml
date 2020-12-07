@@ -1,22 +1,25 @@
 ﻿<Properties StartupConfiguration="{61343446-D796-4161-8185-0A19C114245D}|Default">
   <MonoDevelop.Ide.ItemProperties.TipCalc.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.visual_studio_-_10_0_-_api_29_-_pixel_3a" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.Droid/Resources/layout/TipView.axml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.Core/ViewModels/TipViewModel.cs">
     <Files>
-      <File FileName="TipCalc.Droid/Resources/layout/TipView.axml" Line="1" Column="1" />
+      <File FileName="TipCalc.Core/ViewModels/FirstViewModel.cs" Line="26" Column="29" />
+      <File FileName="TipCalc.Core/ViewModels/BaseViewModel.cs" Line="21" Column="71" />
+      <File FileName="TipCalc.Core/ViewModels/SecondViewModel.cs" Line="1" Column="1" />
+      <File FileName="TipCalc.Core/ViewModels/TipViewModel.cs" Line="33" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TipCalc" expanded="True">
             <Node name="TipCalc.Core" expanded="True">
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="TipViewModel.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="TipCalc.Droid" expanded="True">
               <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True">
-                  <Node name="TipView.axml" selected="True" />
-                </Node>
+                <Node name="layout" expanded="True" />
               </Node>
               <Node name="Views" expanded="True" />
             </Node>
